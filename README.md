@@ -36,6 +36,6 @@ Below is a sample waveform output from the Verilog simulation, showing proper co
 4. View the simulation waveform in *GTKWave* or built-in viewer.  
 
 ```bash
-iverilog vending_machine.v testbench.v -o vending_machine
-vvp vending_machine
-gtkwave dump.vcd
+iverilog -o neha neha.v tb.v
+vvp neha
+gtkwave vending_machine.vcd
