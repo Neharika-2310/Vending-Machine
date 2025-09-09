@@ -25,7 +25,7 @@ The system models a vending machine that accepts coins, allows product selection
 ## 📊 Simulation Result  
 Below is a sample waveform output from the Verilog simulation, showing proper coin input, product selection, dispense, and change return:  
 
-![Simulation Output](./simulation_waveform.jpg)  
+![Simulation Output](./simulation.jpg)  
 
 
 
